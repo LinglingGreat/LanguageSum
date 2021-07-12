@@ -371,6 +371,110 @@ Product-minded engineers attack this problem from both angles: both looking for 
 
 **Juggling both the product and engineering tradeoffs and the impact of each is a unique strength product-minded engineers have.** They can quickly go back-and-forth between the two sides of the same coin: product features and engineering effort and tradeoffs. Because they do it all in their head, using their engineering and product insights, they get to valuable conclusions remarkably quickly.
 
+5.提前在产品和工程两方面做出权衡
+
+因为具有产品思维的工程师们对产品的原理以及软件工程都有深刻的理解，他们可以提出非常独到的建议，而很少有别人可以做到。例如，在确定产品构建的工作范围时，打造产品某项关键功能的编程工作量可能非常巨大。许多工程师会开始寻找减少工作量的方法，并试图明确减少工作量对该项关键功能可能会产生的影响。
+
+具有产品意识的工程师会从两个角度来解决这个问题：一方面在工程方面进行取舍，明确可能对产品产生的影响；同时在另一方面，他们还会开始对产品功能进行取舍，评估对工程工作量的影响。他们经常会去找产品经理，在保持产品体验相似的前提下，建议构建一个完全不同的功能，从而使得编程的工作量大幅降低。
+
+兼顾产品和工程、平衡两者的影响，是具有产品意识的工程师们拥有的独特优势。他们可以快速地在同一枚硬币的两面之间来回切换：产品特性、工程工作量和两者的平衡。由于他们利用其工程和产品两方面的洞察力，在头脑中快速完成上述权衡，所以他们能够很快得出有价值的结论。
+
+### tradeoff
+
+这是一个复合名词，由动词和介词 / 副词小品词直接相连构成，你也可以写成 trade-off。同时，这是一个可数名词，可以加 s 变成复数形式 tradeoffs。
+
+所谓 tradeoff，顾名思义，首先是“交易”的意思。有交易就有讨价还价，就有妥协，就有得有失，就有鱼和熊掌不可兼得。所以这个词指的是一种取舍、一种权衡，最后达成折中平衡。
+
+A trade-off is a situation where you make a compromise between two things, or where you exchange all or part of one thing for another.
+
+A trade-off is a balance between two opposing things, that you are willing to accept in order to achieve something.
+
+例句：Life is full of trade-offs. You cannot have your cake and eat it too.翻译：生活充满了取舍。鱼和熊掌不可兼得。
+
+“You cannot have your cake and eat it (too)”或者“You can’t eat your cake and [then still] have it (too)”是很常用的英语谚语，类似于“you can’t have the best of both worlds”。你可以积累下来。
+
+例句：Depending on your system resources, there will always be some trade-offs between CPU, memory, and I/O in your tuning decisions.翻译：根据你的系统资源进行调优决策时，CPU、内存和 I/O 之间总是需要进行权衡。
+
+### 复合名词
+
+复合名词构成的方法比较多，它可以由动词和介词 / 副词小品词组成，这在英语中很是常见。这种方式构成的复合名词与相关联的短语动词之间，意义基本相近。我们以短语动词 break out 为例来看下。
+
+动词短语 break out 指“（战争、瘟疫）爆发、越狱”，由此我们可以引申出“摆脱局限的状态、突破”等含义。如果把 break 和 out 之间的空格去掉，这个动词短语就变成了复合名词 breakout。下面是三个例句。
+
+例句：Bubble economy usually starts with false prosperity and ends in a breakout of financial crises.翻译：泡沫经济通常以虚假繁荣开始，以金融危机爆发告终。
+
+例句：Point Break was a breakout film for Kathryn Bigelow in 1991.翻译：凯瑟琳·毕格罗于 1991 年拍摄了《惊爆点》，该片突破了她之前的风格。
+
+例句：Breakout session is a relatively short meeting where a small group of attendees, drawn from a large conference or convention, discusses specific subjects or aspects of the broad theme of the main gathering.翻译：分组会议是大会中一个相对较短的小会，由部分与会者讨论大会主题下的某个具体议题。
+
+注意，颠倒两个单词的次序之后，还可以构成另外一个复合名词 outbreak，但这个词更多地特指“（战争、瘟疫）突然爆发、蔓延”。同时，outbreak 偶尔也可用作动词。
+
+例句：Fears are growing of avian influenza outbreak following the appearance of several cases in the city.翻译：随着该市出现若干病例，人们对禽流感大爆发的担忧日益加剧。
+
+通过[这个链接](https://www.grammar-monster.com/glossary/compound_nouns.htm)，了解更多关于复合名词的知识。
+
+有一大类复合名词由动词加上介词（prepositions）或副词小品词（adverb particles）组成。对于类似 above, down, up, out, in, across, back, along, over, round, around, away, off, on 等小品词（也可称为小词），怎样区别它们什么时候是副词小品词，什么时候是介词呢？你可以根据自己的现有知识思考一下，然后阅读这个关于[小品词的短文](https://www.englishpractice.com/grammar/adverb-particles/?pdf=1004)，看看和自己想的有什么不一样。
+
+### 独立主格结构
+
+They often go back to the product manager, suggesting a completely different feature to be built, given the product impact would be similar,  but the engineering effort vastly smaller.
+
+这句话的意思非常清楚，工程师们经常去找产品经理，去干什么呢？后面是我们已经非常熟悉的现在分词做状语，来表示目的，去找他们提建议，建议改产品的功能，而且还是完全不同的功能。产品经理刚要急，工程师马上就接上说，当然前提条件（given 后面跟的是从句）是产品的用户体验相似，然后话锋一转，但是工程师的工作量会大幅度下降。
+
+这里我们需要讲解一下 but 后面的独立主格结构，英文叫作 Absolute Construction。所谓独立主格，首先它是一个“格”，属于短语性质的成分，而不是一个“句子”或“从句”，因为英语中任何一个句子都要有主谓结构。例如，我们将本段最后一句话改成 but the engineering effort would be vastly smaller 的话，这就变成了一个单独的句子。
+
+而独立主格结构没有真正的主语和谓语动词，它由名词或代词作逻辑主语，再加上分词、形容词、副词、动词不定式或介词短语作逻辑谓语来构成的，前后两部分具有逻辑主谓关系。
+
+独立主格结构形式上与主句没有关系，但功能上相当于一个带有独立逻辑主语的状语从句。
+
+例句：The wind failing, we lowered the sail. 风力减弱，我们放下了船帆。
+
+比较：When the wind failed, we lowered the sail. 意思相同，但属于状语从句。
+
+The wind failing 带有自己的主语 wind，从语法结构上和主句的主语 we 不发生关系。但是，所谓的“独立”并非真正独立，它从逻辑或者意思上看，还是一种从属结构，在句中通常起状语的作用，常用来表示时间、原因、条件、行为方式或伴随情况等。
+
+例句：Weather permitting, we will have a barbecue tomorrow.翻译：如果天气好的话，明天我们一起烤肉。（表示条件）
+
+例句：The night dark and frosty, he wrapped her up with great care.翻译：夜又黑又冷，所以他把她裹得严严实实的。（表示原因）
+
+例句：Evenings he read aloud, his wife sewing by his side.翻译：晚上他朗声读书，妻子在他身边缝衣服。（表示伴随情况）
+
+例句：Almost all metals are good conductors, silver being the best of all.翻译：几乎所有的金属都是良导体，而银则是最好的导体。（表示补充说明）
+
+A well-regulated militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.纪律优良之民众武装乃自由邦国安全所必需，故，人民持有并携带武器之权不受侵犯。
+
+### juggle
+
+juggle 这个词的原意是“玩杂耍的时候接连抛接几个物体”，英文解释是 to throw a set of three or more objects such as balls into the air and catch and throw them again quickly, one at a time，同时它也可以引申出“同时应付几件事情，一心多用、兼顾”等含义。我们还是通过几个例句来感受使用场景。
+
+例句：I was juggling books, shopping bags and the baby.翻译：我手里又是书，又是购物袋，还抱着孩子，跟演杂技一样。
+
+例句：The management team meets several times a week to juggle budgets and resources.翻译：管理团队一周碰头几次，来兼顾预算和资源。
+
+juggle 还有一个近义词 multitask，也是指“同时做几件事情、多任务处理”。但是，和 juggle 不同的是，multitask 是不及物动词，后面不跟宾语。
+
+例句：According to a study published by the American Psychological Association, you spend between 20 and 40 percent more time when you multitask.翻译：根据美国心理协会发表的一项研究，当你一心多用同时处理多项工作时，你所花费的时间会多 20% 到 40%。
+
+### back-and-forth
+
+back-and-forth 的意思是“来来回回”，英文解释是：moving first in one direction and then in the opposite one。但是，backward and forward 不能表示同样的意思。back 强调的是目的地、回到什么地方，比如 back home（回家）；而 backward 只是一个方向，表示“倒退”。
+
+例句：I will drive back to Shanghai this weekend.翻译：这周末我开车回上海。
+
+例句：This lessens the back-and-forth remote traffic and can reduce deployment times.翻译：这样可以减少来回的远程传输，并缩短部署时间。
+
+### two sides of the coin
+
+two sides of the coin 的意思很简单，即“一个硬币的两面”。
+
+If two things are two sides of the same coin or opposite sides of the same coin, they are closely related to each other and cannot be separated, even though they seem to be completely different.
+
+I’ve always felt that tragedy and comedy are two sides of the same coin. Love and hate are the opposite sides of the same coin. 祸福相依、爱恨交织。/ 塞翁失马焉知非福。
+
+例句：WCF and WF are really two sides of the same coin: WCF is the interface and hosting environment for the service, while WF implements its processing logic.翻译：WCF 和 WF 实际上是同一枚硬币的两面：WCF 是服务的接口和托管环境，而 WF 实现其处理逻辑。
+
+
+
 6. Pragmatic handling of edge cases
 -----------------------------------
 
@@ -379,6 +483,100 @@ Edge cases are a funny thing. On one extreme, engineers often forget about many 
 **Product-minded engineers quickly map out edge cases and think of ways to reduce work on them: often bringing solutions that require no engineering work.** They are focused on the "minimum lovable product concept" and evaluate the impact of an edge case and the effort of handling it. They come with good middle-ground suggestions: mapping out most things that can go wrong and bring suggestions on what edge cases need to be addressed, before shipping even an early version.
 
 For example, if one in a thousand users might be hit by an error, they will consider the effort to fix it and think about what happens if they don't do anything. Can customer support help the person in this case, during validation? Can the user just retry and succeed the next time? Can the product be slightly modified, so this edge case won't occur?
+
+6.以务实的方式处理边缘案例
+
+边缘案例是一件很有意思的事情。有的工程师经常会忘记边缘案例的存在，最后从产品测试人员或最终用户那里得到反馈之后，才不得不回过头来解决这些问题。这是一个极端，而另一方面，如果在一个新产品或功能中试图处理所有可能的边缘情况，则可能会耗费大量的时间。
+
+具有产品意识的工程师会很快制定出关于边缘案例的计划，并思考如何减少工作量，并经常会找到不需要额外工作量的解决方案。他们专注于“最小可爱产品”的概念，评估边缘案例的影响和处理所需的工作量。他们会提供很好的折衷建议: 在发布早期版本之前，列出大多数可能出错的地方，并提出需要解决哪些边缘案例的建议。
+
+例如，对于一个千分之一的用户可能会遇到的错误，他们会考虑修复这一错误涉及的工作量，以及如果什么都不做会发生的后果。在产品验证过程中，客服专员是否可以在这个案例中帮助用户？用户下一次再遇到同样问题可以自己尝试成功解决吗？对产品进行略微调整，是否就可以避免边缘案例？
+
+### edge case
+
+Edge case occurs at an extreme (maximum or minimum) operating parameter.
+
+edge case 较为常见的译法为“边缘案例”，指“一个运行参数或条件为极值（最大值或最小值）的情况”。类似的，我们来看下 corner case 这个词。
+
+Corner case occurs outside of normal operating parameters, specifically when multiple environmental variables or conditions are simultaneously at extreme levels, even though each parameter is within the specified range for that parameter.
+
+“边角案例”一词应该来自边缘案例，两个边缘的交叉点构成角，所以边角案例就是多个参数或条件均为极值的情形。如果音量调到最大，声音失真，这属于边缘案例；如果问题在音量最大、周边环境高湿、且同时一万人以上同时在线时才会出现，这属于边角案例。边角案例一般在复杂系统的测试或除错过程中才会出现。
+
+Boundary case occurs when one of inputs is at or just beyond maximum or minimum limits.
+
+还有一个词 boundary case，我们也叫“边界案例”或者“边界条件”，也是指系统输入刚好在上下限或是恰好超过上下限一点点的状态。
+
+### pragmatic
+
+它既可以强调“一种务实的态度”（A pragmatic way of dealing with something is based on practical considerations, rather than theoretical ones.），也可以用来说“一个人非常务实”（A pragmatic person deals with things in a practical way.）。
+
+傅高义教授（Ezra F. Vogel）是哈佛大学教授、费正清东亚研究中心前主任。在其著作《邓小平时代》中，他一直用 pragmatic 这个词来形容邓小平。媒体也经常称邓小平为“伟大的务实主义者（The great pragmatist）”。
+
+例句：Incorporating both risk-based and customer-based analysis into your solution will yield a more pragmatic test plan.翻译：将基于风险和基于客户的分析整合到您的解决方案中，将会产生一个更加务实的测试计划。
+
+### funny
+
+英语里有些看似平淡无奇、人畜无害的简单小词，例如 funny，其实它们并不简单。在使用过程中要加倍小心，需要理解透字面背后的含义，谨防用错、踩雷。我们看下面这几个场景。
+
+例句：A: Sorry I’m late. My car broke down half way here.B: Oh, very funny. Tell me another!
+
+翻译：A：抱歉我迟到了，我的车半路抛锚了。B：你得了吧，接着编。（有点类似于“呵呵”的口气）
+
+例句：It’s not funny! Someone could have been hurt.翻译：这不好玩（这太危险了）！没人受伤算是运气好。
+
+例句：If there has been any funny business, we’ll soon find out.翻译：如果这里面有任何猫腻（非法勾当），我们很快会发现的。
+
+例句：My computer keeps going funny.翻译：我的计算机老出故障。
+
+其实在很多语境下，funny 的意思都是偏负面的。
+
+例如，要想夸别人很风趣，我们一般不说“You are so funny.”或者“You are a funny guy.”，容易让人误会你在说他“逗比”“二货”之类。而常用的是“You are so much fun”。
+
+另外，还有一些可以用来夸人的词汇，也比较常用。这些词不含负面意思，在交流的时候，你可以放心使用。这些词有：hilarious、humorous、amusing、entertaining 等。
+
+那除了 funny 外，还有很多类似的词，使用的时候也要特别小心。例如 interesting，其实它也是“呵呵”的意思。这里我整理了一些工作和生活中非常常见的表达，你可以感受一下，相信你一定用得上……
+
+- Could we consider some other options？能否考虑其他方案？（你的方案是狗屎）
+- It was a bit disappointing that…我感到有些失望……（你们 XXX 干的叫什么事！！！）
+- Oh, by the way…顺便提一句……（下面要说的可能是谈话里最重要的一件事……）
+- It is quite good. 还行吧。（不咋地。）
+- It is not bad. 不坏。（真心不错，但不要骄傲。）
+- With all due/the greatest respect…恕我冒昧，恕我直言……（后面跟的话就是要骂人了。）
+- I hear what you say…你的意见我听到了……（你给我闭嘴吧！）
+- It is a very brave proposal. 这真是个勇敢的提议。（我看这个愣头青大概是疯了吧！）
+- I almost agree…我基本同意？（同意个鬼，基本不同意。）
+
+### map out
+
+map out 是“计划、规划、提前安排”的意思。例如，map out the future 的意思是“筹划未来”。它的英文解释是：If you map out something that you are intending to do, you work out in detail how you will do it.
+
+例句：With the whole IT picture in hand, we can map out how the information flows from start to finish.翻译：掌握了整个 IT 蓝图之后，我们就可以规划信息从头到尾的流动方式。
+
+例句：It is important to map out the big picture first so that we can systematically identify user requirements.翻译：为了系统地识别用户的需求，我们首先需要制定一个全局规划。
+
+### focus 和 focused
+
+focus 是动词，表示“（某人）集中精力于某件事情上”。focused 是过去分词，可作形容词，表示“（注意力、眼神、焦点、光线等）集中的，（论文、计划等）目标明确的”。
+
+### minimum lovable product
+
+MVP 指的是 Minimum Viable Product，按照字面含义可以直译为“最小可行产品”。这种产品只包含最简单的基本核心功能。
+
+而 MLP 指的是 Minimum Lovable Product，可以直译为“最小可爱产品”。
+
+MVP is the version of a new product that brings back the maximum amount of validated learning about your customers with the least effort. （强调以最小的努力换回最大数量的经过验证的客户反馈数据；目标在于了解用户体验。）
+
+MLP is the version of a new product that brings back the maximum amount of love from your early tribe members with the least effort. （强调以最小的努力换回最大数量的首批部落成员的爱；目标在于直接开始圈粉。）
+
+来自Laurence McCahill 写的这篇关于 MVP 和 MLP 的文章，[How to Build a Minimum Loveable Product](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)。
+
+### middle ground
+
+顾名思义，middle ground 的意思是“中间地带”，表示“折中、妥协之后的立场、观点、决定、协议”等等。字典里的解释是：a set of opinions, decisions, etc. that two or more groups who oppose each other can agree on; a position that is not extreme.
+
+例句：More and more in this age of social media, it seems like people of differing views are unwilling to attempt to find a middle ground.翻译：在这个社交媒体时代，越来越多持不同观点的人似乎不愿意尝试找到一个中间立场。
+
+
 
 7. Quick product validation cycles
 ----------------------------------
