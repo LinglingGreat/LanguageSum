@@ -583,6 +583,26 @@ MLP is the version of a new product that brings back the maximum amount of love 
 
 Even before the feature they are working on is production-ready, product-minded engineers find creative ways to get early feedback. This could be doing hallway testing with colleagues, showing the work-in-progress feature to the product manager, organizing a team bug bash on the beta build, and many other, creative ways. They are continuously thinking:"how can we validate that people will use this feature, the way we think they will?"
 
+7.快速的产品验证周期
+
+甚至在开发的产品功能可以上线之前，具有产品思维的工程师们早就已经找到创造性的方法来获取早期的反馈意见。他们可以和同事一起进行走廊测试，可以向产品经理演示尚在开发中的功能，也可以在 Beta 版本发布前组织整个团队来一场“漏洞大扫荡”，当然还有许多其他创造性的方法。他们会一直思考这个问题：“我们怎样才能验证用户们会像我们预期的那样来使用这个功能？”
+
+## work-in-progress
+
+work-in-progress 是一个不可数名词，指“半成品、在制品、在建项目”，有时会缩写为 WIP。在文章中指“尚在开发过程中的应用软件”。这里是名词作形容词来修饰 feature，即“在开发中的软件的某项功能”。我们来看一个例句。
+
+例句：You are strongly encouraged to save your document frequently, back-up regularly, and print your work-in-progress periodically.翻译：强烈建议你们经常保存和备份，并且定期把写作过程中的文稿打印出来。
+
+## bug bash
+
+这里的 bash，原意是“猛烈击打”。我们先来看维基百科给出的 bug bash 的定义。
+
+In software development, a bug bash is a procedure where all the developers, testers, program managers, usability researchers, designers, documentation folks, and even sometimes marketing people, put aside their regular day-to-day duties and “pound on the product”—that is, each exercises the product in every way they can think of. Because each person will use the product in slightly different (or very different) ways, and the product is getting a great deal of use in a short amount of time, this approach may reveal bugs relatively quickly.在软件开发过程中，所有开发人员、测试人员、项目经理，还有负责可研、设计、文档管理甚至营销的同事，把他们的日常工作放在一边，一起来开“捉虫大会”。换言之，每个人都用他们能想到的方式来操作产品。因为每个人使用产品的方式略有不同（或非常不同），从而使得产品在很短的时间内得到了大量的使用，有助于团队相对较快地发现产品缺陷。
+
+
+
+
+
 8. End-to-end product feature ownership
 ---------------------------------------
 
@@ -591,6 +611,96 @@ Most experienced engineers own their work end-to-end: from getting the specifica
 They consider their work done only after getting results on user behavior and business metrics. After rollout, they still actively engage with product managers, data scientists, and customer support channels, to learn how the feature is being used in the real world. It can take weeks to get enough reliable data to draw conclusions. Even though they might be working on a new project, they make checking on the results one of their top priorities. It's not a time-consuming activity, but it needs that additional persistence from someone wanting to know: how is my work _really_ doing?
 
 When a feature performs worse than expected, they are curious to understand where the mismatch was. They are just as interested in finding the root cause between the product plan and the real world result, as they are to debug a hard-to-reproduce bug in the codebase. They'll often spend a good amount of time debating hypothesizes and learnings with the product manager and data scientists.
+
+8.对产品功能从头至尾负责到底
+
+经验丰富的工程师们都会对他们的工作从头至尾负责到底：从拿到产品规范到部署实施，再到发布产品并最终验证产品能否正常工作。除了上述这些工作以外，具有产品意识的工程师通常会举一反三、再进一步。他们坚信，只有在获得用户行为和商业指标的结果之后，他们的工作才算全部完成。产品上线后，他们仍然会积极与产品经理、数据专家和客户支持渠道保持密切沟通，以便了解产品功能在现实世界中的使用情况。要获得足够得出结论的可靠数据通常需要几周时间。即使他们可能已经接手下一个新项目，他们仍然会把检查上一项目的成果作为首要任务之一。这并不是一项特别耗时的活动，但是特别需要一种锲而不舍的精神，推动那些想要知道自己的辛勤劳动究竟效果如何的工程师们，去坚持探寻答案。当开发的某项功能表现得不如预期时，他们会特别好奇问题出在哪里？他们对于找到产品计划和现实世界结果之间存在差距的根本原因怀有浓厚的兴趣，程度不亚于他们在代码库中找到难以复现的缺陷并成功除错。他们经常会花费大量的时间，就某些假设和心得与产品经理和数据专家展开辩论。
+
+## ownership
+
+它由 owner（物主、所有权人）加上 ship（表示地位、状态、关系的后缀，例如 leadership/friendship/dictatorship/partnership 等等）组成，本意是“物主身份、产权关系”。
+
+例句：On January 23rd, America decided to relax its rules on the foreign ownership of its airlines.翻译：1 月 23 日，美国决定放宽对外国持有美国航空公司所有权的管制规定。
+
+例句：Major breakthroughs have been made in the reform of China’s ownership structure.翻译：中国所有制结构改革也取得了重大突破。
+
+这里的 ownership 指的是“产权体制”。说到产权体制，我这里顺便给你普及一下两类特别容易混淆的企业概念。
+
+在国内，论及所有制（即 ownership）的时候，我们会区分国有企业、集体企业和非公有制企业（包括私营企业）等。而西方国家在对市场中的企业类型进行划分时，更常用的是 private company 和 public company 这两个相对的概念。
+
+初学者看到这组词的时候，容易望文生义，认为 private company 是“私营企业或者民营企业”，那么 public company 一定是“公有体制下的国有企业”。如果这么理解的话，那就大错特错啦。国有企业现在约定俗成的说法叫 state-owned-enterprise，缩写是 SOE。
+
+Privately held companies are—no surprise here—privately held. This means that, in most cases, the company is owned by its founders, management, or a group of private investors. A public company, on the other hand, is a company that has sold all or a portion of itself to the public via an initial public offering (IPO), meaning shareholders have a claim to part of the company’s assets and profits.
+
+根据这段解释，我们可以看出，private company 或者 privately held company 指的是“私人控股或持股公司”，一般由创始人、管理层或一群私人投资者拥有产权。而 public company 其实指的是“公众持股公司”，大多数时候我们也可以称为“上市公司（listed company）”，指通过股权首次公开发行（或简称 IPO）向公众出售公司全部或部分资产的公司，当然持有股票的公众股东理论上可分享上市公司一定比例的资产和利润。
+
+所以，在西方，区分公众公司和私人公司的标准并非对应中国的所有制形式，也不取决于规模大小（很多世界级的大型企业，例如美国的科氏工业集团、玛氏集团、彭博有限合伙企业等，都是不上市的私人企业），而是取决于公司的股份是否面向公众公开发行、是否可以自由转让。
+
+最重要的是，一旦一个私人公司成为公众公司（英文可以叫 goes public），就不能再享有闭门经营、少数几个经营者说了算的自由，公众公司必须接受证券交易监督管理委员会的监管，满足定期向股东和公众进行信息披露的要求。公众公司也可以进行“私有化”（privatization，如果是一家上市公司，就是“退市”），私有化和公募上市是一个反向的过程。
+
+One of the biggest differences between the two types of companies is how they deal with public disclosure. If it’s a public U.S. company, which means it is trading on a U.S. stock exchange, it is typically required to file quarterly earnings reports (among other things) with the Securities and Exchange Commission (SEC). This information is made available to shareholders and the public. Private companies, however, are not required to disclose their financial information to anyone, since they do not trade stock on a stock exchange.
+
+由财产权引申出来，我们经常会听到 Kate owns this project 这样的话，表面意思是“凯特拥有这个项目”，指的是“这个项目的负责人是凯特”。文章中 ownership 的意思其实也是负责某个项目或某项工作的状态。字面上看，就是把公司的事情真正当作自己的，做事一跟到底，对结果负责。这一段小标题里面的 end-to-end（端到端），也是进一步强调了 ownership 这个意思。所以，ownership 其实也用来表示一个人有责任心，有主人翁精神，是一种可贵的、自发投入的工作状态。很多企业都会在自己的公司文化中倡导员工的 ownership 意识，和公司同心同德。
+
+## from…through… (all the way) to…
+
+这是一个从 A 经过 B 到 C 的句型。all the way 表示“一直、自始至终”。ABC 可以是“时间、地点、一连串先后发生的事件”。此外，all the way through 也是一个惯用成语。
+
+例句：I slept all the way through the film.翻译：整部电影我都在睡觉。
+
+## even if/though
+
+even if 和 even though 意思相近，都可用于引导表示让步的状语从句，但它们的用法存在微妙差别。even if 引导的从句一般是假设性的，并不符合真实的状况，表示“即使、就算、哪怕”等含义。
+
+例句：I wouldn’t marry you even if you were the last man in the world.翻译：即使你是世界上最后一个男人，我也不会嫁给你。
+
+而 even though 引导的从句，往往是在说真实发生的情况，表示“尽管、虽然”的意思。大部分情况下，我们可以直接用 though 或 although 代替，但是不可以说 even although。
+
+例句：Thomas is awarded the best teacher of the year even though he has the least experience.翻译：托马斯被授予年度最佳教师，尽管他的经验最少。
+
+事实上，在实际运用中，特别是在口语里，基本没有人会这么较真地区别 even if 与 even though 的差别，混用也是可以的。
+
+那如上所述，当 even if 或 even though 引导让步状语从句时，后面可以是真实的条件句，也可以是虚拟语气。
+
+虚拟语气用来表示虚假的、与事实相反或难以实现的情况，也可以用来表示某种不确定的情形，体现主观愿望或某种强烈情感。
+
+例句 1：If it rains tomorrow, we will cancel the event.
+
+例句 2：If I were you I should go to see the doctor.
+
+例句 3：I wish it were Sundy today.
+
+例句 4：I should have called Emily this morning, but I forgot.
+
+虚拟语气
+
+文章一：https://www.grammar-monster.com/glossary/subjunctive_mood.htm
+
+文章二：http://englishplus.com/grammar/00000031.htm
+
+## persistence
+
+persistence 源于形容词 persistent 和动词 persist。从词根的角度看，per=through，是“从头至尾、贯穿始终”的意思（例如 permanent、perpetual 等）；sist=to stand，是“站立”的意思。例如，consist（站在一起 = 组成）、resist（站到反面 = 抵抗）。所以，合在一起这个词就是“始终站立、坚持到底”的意思。
+
+动词 persist 一般和介词 in 搭配，意思要看上下文，较多情况下偏贬义，有“顽固坚持、执迷不悟”的意思。
+
+persist 一词有褒义的含义，但更多的语境下是偏贬义的，因此需要我们根据上下文来辨别它的具体含义。你可以理解为“坚持不懈”，更多语境下它带有“不顾别人的反对、执迷不悟”的意思。
+
+例句：We join, we persist, we win.翻译：我们参与了，我们坚持了，我们最终胜利了。
+
+例句：Why do you persist in blaming yourself for what happened?翻译：你何必为已发生的事没完没了地自责？
+
+例句：She had turned him down for a date before, but he persisted and asked her again.翻译：她以前拒绝过他的约会，但他坚持要再约她一次。
+
+同样，形容词 persistent 和名词 persistence 的含义也要看上下文，也有褒义也有贬义。褒义的时候形容坚持不懈。
+
+例句：Skill comes only with practice, patience and persistence.翻译：只有不断练习，有耐心，有毅力，才能学会一门技艺。
+
+不过，它的近义词 persevere、perseverant 和 perseverance 则永远是褒义的，表示“孜孜以求、锲而不舍”，不用管上下文。
+
+例句：By perseverance the crippled boy learned how to swim.翻译：由于锲而不舍，那个腿部残疾的男孩学会了游泳。
+
+
 
 9. Strong product instincts through repeated cycles of learning
 ---------------------------------------------------------------
